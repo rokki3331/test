@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1540133470 source:q:\projects\laba4_6.1\main.cpp
+	<iostream>
+	<cmath>
+
